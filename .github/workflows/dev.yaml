@@ -4,7 +4,7 @@ on:
     branches:
       - develop
 
-jops:
+jobs:
   deploy-dev:
     runs-on: ubuntu-latest
     steps:
